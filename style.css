@@ -1,5 +1,25 @@
 body {
-	background-color: #FF00FF;
+	background-image: url('snat.jpg');
 	font-family: verdana;
 	font-size: 20px;
+}
+
+p {
+	background-color: rgba(255, 0, 255, 0.75);
+}
+
+h1 {
+	background-color: rgba(255, 0, 255, 0.75);
+}
+
+h2 {
+	background-color: rgba(255, 0, 255, 0.75);
+}
+
+ol {
+	background-color: rgba(255, 0, 255, 0.75);
+}
+
+a {
+	background-color: rgba(255, 0, 255, 0.75);
 }
