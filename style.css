@@ -28,6 +28,26 @@ a {
 	background-color: rgba(0, 255, 255, 0.65);
 }
 
+a:link {
+	color: rgb(128, 0, 0);
+}
+
+a:visited {
+	color: rgb(255, 0, 0);
+}
+
+a:hover {
+	color: rgb(200, 0, 0);
+}
+
+a:active {
+	color: rgb(255, 0, 0);
+}
+
 ul {
 	background-color: rgba(0, 255, 255, 0.65);
+}
+
+.shitass img {
+	width: 540px;
 }
