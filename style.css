@@ -1,31 +1,9 @@
 body {
-	background-image: url('Zrzutekranu2025-04-15193337.png');
+	background-image: url('lol.jpg');
 	font-family: verdana;
+	background-size:cover;
 	font-size: 20px;
-}
-
-p {
-	background-color: rgba(0, 255, 255, 0.65);
-}
-
-h1 {
-	background-color: rgba(0, 255, 255, 0.65);
-}
-
-h2 {
-	background-color: rgba(0, 255, 255, 0.65);
-}
-
-h3 {
-	background-color: rgba(0, 255, 255, 0.65);
-}
-
-ol {
-	background-color: rgba(0, 255, 255, 0.65);
-}
-
-a {
-	background-color: rgba(0, 255, 255, 0.65);
+	color: rgba(255, 255, 255, 1)
 }
 
 a:link {
@@ -44,10 +22,10 @@ a:active {
 	color: rgb(255, 0, 0);
 }
 
-ul {
-	background-color: rgba(0, 255, 255, 0.65);
+.shitass img {
+	width: 500px;
 }
 
-.shitass img {
-	width: 540px;
+.lol {
+	background-color: rgba(0, 0, 0, 0.5);
 }
